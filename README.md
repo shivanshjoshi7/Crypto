@@ -1,2 +1,2 @@
 # Crypto
-Here I implement various cryptograohy algorithms as per my cryptography course.
+Here I implement various cryptography algorithms as per my cryptography course.
