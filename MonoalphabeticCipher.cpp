@@ -37,7 +37,7 @@ int main()
 {
 	string s;
 	cout<<"Enter the message"<<"\n";
-    getline(cin,s);
+    	getline(cin,s);
 
 	string a="abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ ";
 	string k;
